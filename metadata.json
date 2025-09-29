@@ -1,0 +1,5 @@
+{
+  "name": "Digital Divergent AI Lead Qualifier",
+  "description": "An AI chatbot that acts as a 24/7 sales and discovery agent for Digital Divergent. It qualifies leads, understands their pain points, and prompts them to book a 'Free AI Boost Proposal'.",
+  "requestFramePermissions": []
+}
